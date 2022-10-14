@@ -1,4 +1,4 @@
-# NZWalks /  ASP.Net Core - WEB API / Entity FrameWork 6 / SQL 
+# NZWalks /  ASP.Net Core - WEB API / Entity FrameWork / SQL 
 * Login Role based Authentication, Authorization with JWT Tokens and Fluent API Validation
 
 
